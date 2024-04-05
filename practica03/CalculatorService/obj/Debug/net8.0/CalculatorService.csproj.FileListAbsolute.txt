@@ -1,0 +1,9 @@
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.csproj.AssemblyReference.cache
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.AssemblyInfoInputs.cache
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.AssemblyInfo.cs
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.csproj.CoreCompileInputs.cache
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.MvcApplicationPartsAssemblyInfo.cache
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.RazorAssemblyInfo.cache
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.RazorAssemblyInfo.cs
+/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/Debug/net8.0/CalculatorService.sourcelink.json
