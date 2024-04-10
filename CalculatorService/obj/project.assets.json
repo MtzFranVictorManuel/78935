@@ -8526,11 +8526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/CalculatorService.csproj",
+      "projectUniqueName": "/Users/victormanuel/Documents/Programacion/78935/CalculatorService/CalculatorService.csproj",
       "projectName": "CalculatorService",
-      "projectPath": "/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/CalculatorService.csproj",
+      "projectPath": "/Users/victormanuel/Documents/Programacion/78935/CalculatorService/CalculatorService.csproj",
       "packagesPath": "/Users/victormanuel/.nuget/packages/",
-      "outputPath": "/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/obj/",
+      "outputPath": "/Users/victormanuel/Documents/Programacion/78935/CalculatorService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/victormanuel/.nuget/NuGet/NuGet.Config"

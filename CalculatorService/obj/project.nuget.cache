@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I4riXSPL0W7M+FgnEi0/pT+c052GZnotEUYKP5ESCBJ98YlYqdEjH8En5fFJYsHTnv7xkUrUTGt4DI289jeSOQ==",
+  "dgSpecHash": "jwnX7GobYWOBu6ggLk0HdJtQyk8bojIZK6k+l/EzA0Tn3N/1u3GT1zlr+72eUvluV7eqO3pnh4Om9UNEZdeUzw==",
   "success": true,
-  "projectFilePath": "/Users/victormanuel/Documents/Programacion/78935/practica03/CalculatorService/CalculatorService.csproj",
+  "projectFilePath": "/Users/victormanuel/Documents/Programacion/78935/CalculatorService/CalculatorService.csproj",
   "expectedPackageFiles": [
     "/Users/victormanuel/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/Users/victormanuel/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
