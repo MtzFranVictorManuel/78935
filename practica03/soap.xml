@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:web="http://tempuri.org/">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <web:CrearReserva>
+         <web:cliente>Nombre del cliente</web:cliente>
+         <web:fecha>2022-12-31T18:30:00Z</web:fecha>
+         <web:duracion>2</web:duracion>
+      </web:CrearReserva>
+   </soapenv:Body>
+</soapenv:Envelope>
